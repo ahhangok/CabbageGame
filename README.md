@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to CabbageGame 👋</h1>
+<h1 align="center">Welcome to CabbageGame 🧑‍🌾</h1>
 <p>
 </p>
 

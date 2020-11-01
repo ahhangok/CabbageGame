@@ -3,7 +3,7 @@
 </p>
 
 > It is a game of harvesting cabbage by avoiding bees in the field using JavaScript.
-> Avoid bees within the time limit and harvest the parsley!
+> Avoid bees within the time limit and harvest the parsley!!
 
 ## Install
 

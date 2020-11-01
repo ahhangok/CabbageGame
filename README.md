@@ -19,5 +19,3 @@
 
 - Website: https://ahhang0k.netlify.app/
 - Github: [@Ahhang0k](https://github.com/Ahhang0k)
-
-## Show your support

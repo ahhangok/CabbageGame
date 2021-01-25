@@ -4,9 +4,9 @@ import { GameBuilder, Reason } from './game.js';
 
 const gameFinishBanner = new PopUp();
 const game = new GameBuilder()
-  .gameDuration(15)
-  .cabbageCount(20)
-  .bugCount(10)
+  .withGameDuration(15)
+  .withCabbageCount(20)
+  .withBugCount(10)
   .build();
 
 game.setGameStopListner((reason) => {

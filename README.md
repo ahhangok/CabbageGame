@@ -13,7 +13,8 @@
 3. Open with Live Server click
 ```
 ## Preview WebPage
-https://github.com/ahhangok/CabbageGame/issues/1#issue-792947787
+![이미지 1](https://user-images.githubusercontent.com/62680930/105649493-dba4b300-5ef3-11eb-923d-fc123cd38785.png)
+
 
 
 ## Author

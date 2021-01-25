@@ -8,7 +8,6 @@ export const Reason = Object.freeze({
   cancle: 'cancle',
 });
 
-//Builder pattern : 오브젝트를 간편하고 읽기 쉽게 만듬
 export class GameBuilder {
   withGameDuration(duration) {
     this.gameDuration = duration;
@@ -42,7 +41,6 @@ class Game {
 
     this.gameBtn.addEventListener('click', () => {
       if (this.started) {
-        //if는 안에 조건문이 참(true)이면 실행 그런데 지금 초기값 false임 그래서 else먼저 시작
         this.stop(Reason.cancle);
       } else {
         this.start();
@@ -80,7 +78,6 @@ class Game {
     if (!this.started) {
       return;
     }
-    //matches는 css셀렉터가 매칭되야할때
     if (item === ItemType.cabbage) {
       this.score++;
       this.updateScoreBoard();
@@ -89,7 +86,6 @@ class Game {
         this.stop(Reason.win);
       }
     } else if (item === ItemType.bug) {
-      //벌레
       this.stopGameTimer();
       this.stop(Reason.lose);
     }

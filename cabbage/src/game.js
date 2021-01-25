@@ -10,17 +10,17 @@ export const Reason = Object.freeze({
 
 //Builder pattern : 오브젝트를 간편하고 읽기 쉽게 만듬
 export class GameBuilder {
-  gameDuration(duration) {
+  withGameDuration(duration) {
     this.gameDuration = duration;
     return this;
   }
 
-  cabbageCount(num) {
+  withCabbageCount(num) {
     this.cabbageCount = num;
     return this;
   }
 
-  bugCount(num) {
+  withBugCount(num) {
     this.bugCount = num;
     return this;
   }

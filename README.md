@@ -4,7 +4,7 @@
 
 > It is a game of harvesting cabbage by avoiding bees in the field using JavaScript.
 > Avoid bees within the time limit and harvest the parsley!!
-> If you would like a detailed explanation, please come to my notion through the link below!
+> If you would like a detailed explanation, please come to my notion through the link!    
 > https://www.notion.so/es6-f1a504cff88d451d9d4403c969190907
 
 ## Usage command

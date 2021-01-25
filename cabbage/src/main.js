@@ -13,13 +13,13 @@ game.setGameStopListner((reason) => {
   let message;
   switch (reason) {
     case Reason.cancle:
-      message = 'REPLAY?';
+      message = 'REPLAY❔';
       break;
     case Reason.win:
-      message = 'YOU WON';
+      message = 'YOU WON🏆';
       break;
     case Reason.lose:
-      message = 'YOU LOSE';
+      message = 'YOU LOSE😢';
       break;
     default:
       throw new Error('not valid reason');

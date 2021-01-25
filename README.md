@@ -12,6 +12,9 @@
 2. Right mouse click
 3. Open with Live Server click
 ```
+## Preview WebPage
+https://github.com/ahhangok/CabbageGame/issues/1#issue-792947787
+
 
 ## Author
 

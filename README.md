@@ -7,7 +7,14 @@
 > If you would like a detailed explanation, please come to my notion through the link!    
 > https://www.notion.so/es6-f1a504cff88d451d9d4403c969190907
 
-## Usage command
+## Main Function
+
+> 1.  Start the game by pressing the play button.
+> 2.  Click cabbage within the time limit.
+> 3.  When the game is over by clicking on the moving bee, you can restart the game with the refresh button.
+
+
+## Usage Command
 
 ```sh
 1. Go to index.html

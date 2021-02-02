@@ -4,8 +4,13 @@
 
 > It is a game of harvesting cabbage by avoiding bees in the field using JavaScript.
 > Avoid bees within the time limit and harvest the parsley!!
-> If you would like a detailed explanation, please come to my notion through the link!    
-> https://www.notion.so/es6-f1a504cff88d451d9d4403c969190907
+> If you are bothered to get the code, click the link below to see it right away.(아래 클릭 시 프로젝트 바로보기)
+> https://cabbagegame.netlify.app/
+
+
+## Project period
+> About 2 weeks
+
 
 ## Main Function
 
